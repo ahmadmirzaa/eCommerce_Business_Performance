@@ -16,14 +16,16 @@ Create a **Business Performance Report** on these three aspects.
     - New customers increase every year. This increase is proportional to the number of Monthly Active Users. This proves that the majority of active users are new customers.
     - Customers who made repeat orders increased sharply in 2017 with a value of 1256 customers or 1253 higher than the previous year. However, in 2018 the number of customers who made repeat orders decreased by 89.
     - The average order frequency per year is only once. This means that most customers order only once throughout the year.
-<br>
+    <br>
+
 3. Product Quality
 ![ProductaQuality](/Image/Product%20Quality.png)
     - Revenue increases every year. The biggest increase occurred in 2017 due to the large number of new customers and the number of customers who made repeat orders.
     - The top categories that generate the most revenue are furniture_decor (2016), bed_bath_table (2017) and health_beuty (2018).
     - The number of Cancel Orders increases every year. The biggest increase occurred in 2017 but is still within a reasonable range when compared to the number of orders received.
     - The top categories that experienced the most Cancel Order were toys (2016), sports_leisure (2017) and health_beuty (2018).
-<br>
+    <br>
+
 4. Payment Types
 ![Payment Types](/Image/Payment%20Types.png)
     - The amount of usage for each payment_type always increases every year except for voucher types. Payments using vouchers decreased in 2018.
